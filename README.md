@@ -7,7 +7,7 @@
 ![image](/picture/常定云官方存储库标签/常定云存储库标签.jpg)
 
 <body>
-	<h2 align="center">常定云官方存储库</h2>	
+	<h2 align="center">常定云TOS服务条款</h2>	
 </body>
 
 1.不允许滥用订阅
