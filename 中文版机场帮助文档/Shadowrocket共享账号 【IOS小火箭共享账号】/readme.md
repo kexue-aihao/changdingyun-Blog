@@ -1,0 +1,30 @@
+# Shadowrocket共享账号 【IOS小火箭共享账号】
+
+------------------
+
+## IOS小火箭共享ID账号【在下方网址找】
+
+https://ccbaohe.com/appleID/
+
+------------------
+
+1、注意！注意！注意！中国区是没有小火箭 Shadowrocket 的，中国区的小火箭或者 Shadowrocket 都是挂羊头卖狗肉的冒牌货。就算不是中国区，也有看起来很像的，所以一定要认准「Shadowrocket」，可以通过「开发者信息」确认是正版软件。
+
+2、使用免费共享苹果账号必须从App Store 登录，千万不要登录「iCloud」，否则可能导致锁机或者隐私泄漏！
+登录时，会弹出2个对话框，第一个选「其他选项」，第二个选「不升级」。千万不要选双重认证升级账户安全，否则会导致账号密码重置，这个共享账号就无法继续使用了。
+
+3、我已经下载了小火箭 Shadowrocket 想用共享账号更新，可以吗？不行！你只能卸载原来的App重新下载，因为App Store 更新必须使用下载时使用的 ID。使用其他 ID 更新，会提示账号停用、账号锁定，或者要求再次输入密码等。总之就是只能重新下载，不能更新，除非你有原来下载时使用的 ID。
+
+------------------
+
+网站域名测试图：
+
+![image](https://github.com/kexue-aihao/changdingyun/blob/master/picture/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B.png?raw=true)
+
+------------------
+
+解析失败的地区:
+
+![image](https://github.com/kexue-aihao/changdingyun/blob/master/picture/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B2.png?raw=true)
+
+------------------

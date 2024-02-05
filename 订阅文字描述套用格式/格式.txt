@@ -1,0 +1,44 @@
+[{
+    "feature": "套餐名字",
+    "support": true
+}, {
+    "feature": "节点地区：",
+    "support": true
+},  {
+    "feature": "节点倍率：",
+    "support": true
+},  {
+    "feature": "24小时工单极速响应",
+    "support": true
+}, {
+    "feature": "主要流媒体解锁：",
+    "support": true
+}, 
+{
+    "feature": "官方电报群：",
+    "support": true
+},
+{
+    "feature": "动态限速：",
+    "support": true
+}, 
+{
+    "feature": "套餐名额：没有限制",
+    "support": true
+}, 
+{
+    "feature": "中转入口：中国香港",
+    "support": true
+}, 
+{
+    "feature": "带宽保证：",
+    "support": true
+}, 
+{
+    "feature": "SLA保证：",
+    "support": true
+}, 
+{
+    "feature": "半年付及以上套餐，可享受远程技术援助",
+    "support": true
+}]
