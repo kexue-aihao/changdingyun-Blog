@@ -19,12 +19,12 @@ https://ccbaohe.com/appleID/
 
 网站域名测试图：
 
-![image](https://github.com/kexue-aihao/changdingyun/blob/master/picture/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B.png?raw=true)
+![image](/picture/共享ID网站域名检测/共享ID网站域名检测.png)
 
 ------------------
 
 解析失败的地区:
 
-![image](https://github.com/kexue-aihao/changdingyun/blob/master/picture/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B/%E5%85%B1%E4%BA%ABID%E7%BD%91%E7%AB%99%E5%9F%9F%E5%90%8D%E6%A3%80%E6%B5%8B2.png?raw=true)
+![image](/picture/共享ID网站域名检测/共享ID网站域名检测2.png)
 
 ------------------

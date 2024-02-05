@@ -4,7 +4,7 @@
 
 ----------------------
 
-![image](https://github.com/kexue-aihao/changdingyun/blob/master/picture/%E5%B8%B8%E5%AE%9A%E4%BA%91%E5%AE%98%E6%96%B9%E5%AD%98%E5%82%A8%E5%BA%93%E6%A0%87%E7%AD%BE/%E5%B8%B8%E5%AE%9A%E4%BA%91%E5%AD%98%E5%82%A8%E5%BA%93%E6%A0%87%E7%AD%BE.jpg?raw=true)
+![image](/picture/常定云官方存储库标签/常定云存储库标签.jpg)
 
 <body>
 	<h2 align="center">常定云官方存储库</h2>	
