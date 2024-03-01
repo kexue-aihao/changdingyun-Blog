@@ -6,7 +6,7 @@
 
 > https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/Shadowrocket%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%20%E3%80%90IOS%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%E3%80%91
 
-[我没有Shadowrocket账号，我该去哪里找？](https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/Shadowrocket%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%20%E3%80%90IOS%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%E3%80%91 "小火箭共享ID")
+> [我没有Shadowrocket账号，我该去哪里找？](https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/Shadowrocket%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%20%E3%80%90IOS%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B7%E3%80%91 "小火箭共享ID")
 
 ----------------
 
