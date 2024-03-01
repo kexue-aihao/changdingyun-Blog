@@ -81,6 +81,7 @@
 
 11.更新订阅显示无效的订阅
 
-> 
+> [更新订阅显示无效的订阅](https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3/%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E6%98%BE%E7%A4%BA%E6%97%A0%E6%95%88%E7%9A%84%E8%AE%A2%E9%98%85 "更新订阅显示无效的订阅")
+
 ----------------
 
