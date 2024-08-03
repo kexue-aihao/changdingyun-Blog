@@ -2,6 +2,22 @@
 
 ----------------
 
+# Android 使用教程地址
+
+> [Android 使用教程地址](https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3#android-%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B "Android 使用教程地址")
+
+# Windows 使用教程地址
+
+> [Windows 使用教程地址](https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3#windows-%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B "Windows 使用教程地址")
+
+# 苹果IOS 使用教程地址
+
+> [苹果IOS 使用教程地址](https://github.com/kexue-aihao/changdingyun-Blog/tree/master/%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%BA%E5%9C%BA%E5%B8%AE%E5%8A%A9%E6%96%87%E6%A1%A3#%E8%8B%B9%E6%9E%9C-ios-%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B "苹果IOS 使用教程地址")
+
+# 代理软件下载地址
+
+> [代理软件下载地址](https://github.com/kexue-aihao/AHRT-blog/tree/master/GitHub%E5%AE%9D%E8%97%8F%E9%A1%B9%E7%9B%AE#%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6 "代理软件下载地址")
+
 ## Android 代理软件使用教程
 
 ### Clash for Android
