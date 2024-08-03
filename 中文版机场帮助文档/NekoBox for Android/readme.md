@@ -1,14 +1,14 @@
-# NekoBox 使用教程
+# NekoBox for Android 使用教程
 
 ----------------------
 
-NekoBox 软件图标预览图:
+NekoBox for Android 软件图标预览图:
 
 ![image](/picture/中文版机场帮助文档/42.png)
 
-    如上图所示，红色方框中的就是 NekoBox 的软件图标
+    如上图所示，红色方框中的就是 NekoBox for Android 的软件图标
 
-NekoBox 软件内部界面预览图:
+NekoBox for Android 软件内部界面预览图:
 
 ![image](/picture/中文版机场帮助文档/43.png)
 
