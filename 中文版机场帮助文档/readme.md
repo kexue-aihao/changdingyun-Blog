@@ -16,7 +16,7 @@
 
 # 代理软件下载地址
 
-> [代理软件下载地址](https://github.com/kexue-aihao/AHRT-blog/tree/master/GitHub%E5%AE%9D%E8%97%8F%E9%A1%B9%E7%9B%AE#%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6 "代理软件下载地址")
+> [代理软件下载地址]( "代理软件下载地址")
 
 ## Android 代理软件使用教程
 
