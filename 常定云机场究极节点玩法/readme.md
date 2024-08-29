@@ -79,3 +79,5 @@
 **具体玩法**
 
 1.**下载iptest批量端口版**
+
+[iptest批量端口版](https://github.com/kexue-aihao/changdingyun-Blog/releases/tag/iptest "iptest批量端口版")
