@@ -78,7 +78,7 @@
 
 **具体玩法**
 
-*V2rayN玩法*
+*1.Mihomo-Party玩法*
 
 1.**下载iptest批量端口版**
 
@@ -104,4 +104,8 @@
 
 ![image](/picture/常定云机场究极节点玩法/4.png)
 
-6.
+6.**打开Mihomo-Party**
+
+7.**
+
+![image](/picture/常定云机场究极节点玩法/5.png)
