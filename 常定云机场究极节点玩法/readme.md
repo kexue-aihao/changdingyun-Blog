@@ -81,3 +81,7 @@
 1.**下载iptest批量端口版**
 
 [iptest批量端口版](https://github.com/kexue-aihao/changdingyun-Blog/releases/tag/iptest "iptest批量端口版")
+
+2.将压缩包下载解压出来[下载哪个压缩包都是一样的，只不过压缩的格式不同而已]，
+
+![image](/picture/常定云机场究极节点玩法/1.png)
