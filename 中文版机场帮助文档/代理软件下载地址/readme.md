@@ -94,6 +94,10 @@ Linux:
 
 > https://github.com/hiddify/hiddify-next
 
+- mihomo-party
+
+> https://github.com/pompurin404/mihomo-party
+
 ### Mac OS
 
 - ClashX
@@ -128,6 +132,10 @@ Linux:
 
 > https://github.com/abbasnaqdi/nekoray-macos
 
+- mihomo-party
+
+> https://github.com/pompurin404/mihomo-party
+
 ### Linux
 
 Clash for Linux
@@ -159,3 +167,7 @@ Clash for Linux
 - NekoBox for linux
 
 > https://github.com/MatsuriDayo/nekoray
+
+- mihomo-party
+
+> https://github.com/pompurin404/mihomo-party
