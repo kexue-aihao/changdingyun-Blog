@@ -154,4 +154,20 @@
 
 ![image](/picture/常定云机场究极节点玩法/7.png)
 
+**IP以及端口可以从下方地址下载相应文件**
+
+**AS16509**
+
+**AS31898**
+
+**AS45102**
+
+**IATA:HKG**
+
+**IATA:SIN**
+
+**IATA:NRT**
+
+[IP以及端口数据下载地址](https://github.com/kexue-aihao/changdingyun-Blog/releases/tag/ASIATA "IP以及端口数据下载地址")
+
 --------------------------
